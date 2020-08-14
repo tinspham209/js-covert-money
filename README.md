@@ -1,8 +1,8 @@
-# Mini Project: Convert Money - Working around with async/await
+# Mini Project: Convert Money
 
 ### Tech-Stack
 
-- JS
+- JS ES6
 - axios
 - Quokka
 
@@ -16,19 +16,25 @@
 - https://fixer.io/
 - https://restcountries.eu
 
-### Function
-
 ### Directory Structure
 
 .
-└──
-├──
-└──
+├── index.js
+├── package-lock.json
+├── package.json
+└── README.md
 
 ### After this project
+
+I have improve my knowledge about
+
+- Async/Await
+- fetch API with `axios`
+- how to use `Promise.all` to call 2 functions in the same time when fetch API
+- Array destructuring
+- Data destructuring
+- a phenomenal tool called `QuokkaJS`
 
 ### Set up
 
 `npm install` and `npm start`
-
-### Screenshot
